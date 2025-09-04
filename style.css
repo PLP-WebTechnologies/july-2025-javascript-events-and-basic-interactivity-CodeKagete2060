@@ -1,0 +1,41 @@
+body {
+    font-family: verdana;
+    font-size: 2em;
+    background-color: skyblue;
+    color: black;
+}
+
+button {
+    margin:5px;
+    padding:10px 15px;
+    border: none;
+    background:teal;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #737377;
+}
+
+div {
+    margin: 5px;
+    padding: i5px;
+}
+
+form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+body.dark{
+    background-color: #222;
+    color: white;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
